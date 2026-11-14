@@ -1,2 +1,9 @@
-# plant-guard_studio
-basically, I designed this app for the farmers to detect the healthy plants are trees. to detect what kind of disease happened to that it will detect accurately with the help of ai and it will work without ai. because I designed this an offline app so you can use this app without internet. And I designed this 
+# Plant Guard Studio
+
+Plant Guard Studio is a farmer-friendly solution to:
+
+1. Detect leaf diseases from plant images.
+2. Predict the exact type of disease affecting the plant.
+3. Provide clear prevention and control guidance to reduce further spread.
+
+The goal is to help users identify disease early and take the right actions to protect crop health.
